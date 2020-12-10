@@ -47,8 +47,7 @@
 {"departure_airport": "北京首都国际机场T2航站楼", "arrival_airport": "长沙黄花机场T2航站楼", "departure_time": "18:00", "arrival_time": "20:30", "price": [{"type": "公务舱", "amount": "1140"}, {"type": "经济舱", "amount": "545"}]},
 {"departure_airport": "北京首都国际机场T2航站楼", "arrival_airport": "重庆江北机场T3航站楼", "departure_time": "21:15", "arrival_time": "00:15", "price": [{"type": "公务舱", "amount": "1430"}, {"type": "经济舱", "amount": "345"}]},
 {"departure_airport": "北京首都国际机场T2航站楼", "arrival_airport": "重庆江北机场T3航站楼", "departure_time": "14:55", "arrival_time": "18:10", "price": [{"type": "公务舱", "amount": "1530"}, {"type": "经济舱", "amount": "495"}]},
-{"departure_airport": "北京首都国际机场T2航站楼", "arrival_airport": "重庆江北机场T3航站楼", "departure_time": "10:40", "arrival_time": "13:50", "price": [{"type": "公务舱", "amount": "1940"}, {"type": "经济舱", "amount": "745"}]}
-][
+{"departure_airport": "北京首都国际机场T2航站楼", "arrival_airport": "重庆江北机场T3航站楼", "departure_time": "10:40", "arrival_time": "13:50", "price": [{"type": "公务舱", "amount": "1940"}, {"type": "经济舱", "amount": "745"}]},
 {"departure_airport": "海口美兰机场", "arrival_airport": "北京首都国际机场T2航站楼", "departure_time": "21:00", "arrival_time": "00:40", "price": [{"type": "公务舱", "amount": "2250"}, {"type": "经济舱", "amount": "545"}]},
 {"departure_airport": "海口美兰机场", "arrival_airport": "北京首都国际机场T2航站楼", "departure_time": "15:30", "arrival_time": "21:00", "price": [{"type": "公务舱", "amount": "3460"}, {"type": "经济舱", "amount": "595"}]},
 {"departure_airport": "海口美兰机场", "arrival_airport": "北京首都国际机场T2航站楼", "departure_time": "19:30", "arrival_time": "22:55", "price": [{"type": "公务舱", "amount": "2370"}, {"type": "经济舱", "amount": "615"}]},
@@ -101,8 +100,7 @@
 {"departure_airport": "海口美兰机场", "arrival_airport": "重庆江北机场T3航站楼", "departure_time": "06:50", "arrival_time": "09:05", "price": [{"type": "公务舱", "amount": "1030"}, {"type": "经济舱", "amount": "245"}]},
 {"departure_airport": "海口美兰机场", "arrival_airport": "重庆江北机场T3航站楼", "departure_time": "20:25", "arrival_time": "22:30", "price": [{"type": "公务舱", "amount": "1030"}, {"type": "经济舱", "amount": "295"}]},
 {"departure_airport": "海口美兰机场", "arrival_airport": "重庆江北机场T3航站楼", "departure_time": "11:45", "arrival_time": "14:05", "price": [{"type": "公务舱", "amount": "1720"}, {"type": "经济舱", "amount": "345"}]},
-{"departure_airport": "海口美兰机场", "arrival_airport": "重庆江北机场T3航站楼", "departure_time": "16:15", "arrival_time": "18:30", "price": [{"type": "公务舱", "amount": "sold out"}, {"type": "经济舱", "amount": "395"}]}
-][
+{"departure_airport": "海口美兰机场", "arrival_airport": "重庆江北机场T3航站楼", "departure_time": "16:15", "arrival_time": "18:30", "price": [{"type": "公务舱", "amount": "sold out"}, {"type": "经济舱", "amount": "395"}]},
 {"departure_airport": "广州白云机场T1航站楼", "arrival_airport": "北京首都国际机场T2航站楼", "departure_time": "08:00", "arrival_time": "11:10", "price": [{"type": "公务舱", "amount": "1800"}, {"type": "超级经济舱", "amount": "sold out"}, {"type": "经济舱", "amount": "1100"}]},
 {"departure_airport": "广州白云机场T1航站楼", "arrival_airport": "北京首都国际机场T2航站楼", "departure_time": "20:55", "arrival_time": "00:10", "price": [{"type": "公务舱", "amount": "1800"}, {"type": "超级经济舱", "amount": "sold out"}, {"type": "经济舱", "amount": "1100"}]},
 {"departure_airport": "广州白云机场T1航站楼", "arrival_airport": "北京首都国际机场T2航站楼", "departure_time": "13:05", "arrival_time": "16:05", "price": [{"type": "公务舱", "amount": "2170"}, {"type": "超级经济舱", "amount": "sold out"}, {"type": "经济舱", "amount": "1240"}]},
@@ -130,8 +128,7 @@
 {"departure_airport": "广州白云机场T1航站楼", "arrival_airport": "杭州萧山机场T3航站楼", "departure_time": "20:55", "arrival_time": "23:00", "price": [{"type": "公务舱", "amount": "sold out"}, {"type": "经济舱", "amount": "420"}]},
 {"departure_airport": "广州白云机场T1航站楼", "arrival_airport": "杭州萧山机场T3航站楼", "departure_time": "15:45", "arrival_time": "17:40", "price": [{"type": "公务舱", "amount": "1100"}, {"type": "经济舱", "amount": "500"}]},
 {"departure_airport": "广州白云机场T1航站楼", "arrival_airport": "成都双流机场T2航站楼", "departure_time": "06:55", "arrival_time": "09:40", "price": [{"type": "公务舱", "amount": "2240"}, {"type": "经济舱", "amount": "410"}]},
-{"departure_airport": "广州白云机场T1航站楼", "arrival_airport": "成都双流机场T2航站楼", "departure_time": "14:05", "arrival_time": "16:35", "price": [{"type": "公务舱", "amount": "1100"}, {"type": "经济舱", "amount": "525"}]}
-][
+{"departure_airport": "广州白云机场T1航站楼", "arrival_airport": "成都双流机场T2航站楼", "departure_time": "14:05", "arrival_time": "16:35", "price": [{"type": "公务舱", "amount": "1100"}, {"type": "经济舱", "amount": "525"}]},
 {"departure_airport": "三亚凤凰国际机场T1航站楼", "arrival_airport": "北京首都国际机场T2航站楼", "departure_time": "19:30", "arrival_time": "23:20", "price": [{"type": "公务舱", "amount": "2460"}, {"type": "经济舱", "amount": "775"}]},
 {"departure_airport": "三亚凤凰国际机场T1航站楼", "arrival_airport": "北京首都国际机场T2航站楼", "departure_time": "20:35", "arrival_time": "00:45", "price": [{"type": "公务舱", "amount": "2370"}, {"type": "经济舱", "amount": "1025"}]},
 {"departure_airport": "三亚凤凰国际机场T1航站楼", "arrival_airport": "北京首都国际机场T2航站楼", "departure_time": "08:45", "arrival_time": "12:30", "price": [{"type": "公务舱", "amount": "2460"}, {"type": "经济舱", "amount": "1115"}]},
@@ -204,8 +201,7 @@
 {"departure_airport": "三亚凤凰国际机场T1航站楼", "arrival_airport": "长春龙嘉国际机场T2航站楼", "departure_time": "08:15", "arrival_time": "18:45", "price": [{"type": "公务舱", "amount": "sold out"}, {"type": "经济舱", "amount": "1370"}]},
 {"departure_airport": "三亚凤凰国际机场T1航站楼", "arrival_airport": "长春龙嘉国际机场T2航站楼", "departure_time": "20:50", "arrival_time": "18:45", "price": [{"type": "公务舱", "amount": "3320"}, {"type": "经济舱", "amount": "1370"}]},
 {"departure_airport": "三亚凤凰国际机场T1航站楼", "arrival_airport": "长春龙嘉国际机场T2航站楼", "departure_time": "17:05", "arrival_time": "09:50", "price": [{"type": "公务舱", "amount": "4910"}, {"type": "经济舱", "amount": "1530"}]},
-{"departure_airport": "三亚凤凰国际机场T1航站楼", "arrival_airport": "长春龙嘉国际机场T2航站楼", "departure_time": "15:30", "arrival_time": "09:50", "price": [{"type": "公务舱", "amount": "6250"}, {"type": "经济舱", "amount": "1690"}]}
-][
+{"departure_airport": "三亚凤凰国际机场T1航站楼", "arrival_airport": "长春龙嘉国际机场T2航站楼", "departure_time": "15:30", "arrival_time": "09:50", "price": [{"type": "公务舱", "amount": "6250"}, {"type": "经济舱", "amount": "1690"}]},
 {"departure_airport": "西安咸阳机场T2航站楼", "arrival_airport": "北京首都国际机场T2航站楼", "departure_time": "10:00", "arrival_time": "12:10", "price": [{"type": "公务舱", "amount": "1340"}, {"type": "经济舱", "amount": "490"}]},
 {"departure_airport": "西安咸阳机场T2航站楼", "arrival_airport": "北京首都国际机场T2航站楼", "departure_time": "15:30", "arrival_time": "17:45", "price": [{"type": "公务舱", "amount": "2210"}, {"type": "经济舱", "amount": "490"}]},
 {"departure_airport": "西安咸阳机场T2航站楼", "arrival_airport": "北京首都国际机场T2航站楼", "departure_time": "17:00", "arrival_time": "19:15", "price": [{"type": "公务舱", "amount": "1340"}, {"type": "经济舱", "amount": "490"}]},
@@ -283,8 +279,7 @@
 {"departure_airport": "西安咸阳机场T2航站楼", "arrival_airport": "沈阳桃仙国际机场T3航站楼", "departure_time": "14:55", "arrival_time": "17:20", "price": [{"type": "公务舱", "amount": "1110"}, {"type": "经济舱", "amount": "410"}]},
 {"departure_airport": "西安咸阳机场T2航站楼", "arrival_airport": "长春龙嘉国际机场T2航站楼", "departure_time": "15:40", "arrival_time": "18:45", "price": [{"type": "公务舱", "amount": "1300"}, {"type": "经济舱", "amount": "415"}]},
 {"departure_airport": "西安咸阳机场T2航站楼", "arrival_airport": "长春龙嘉国际机场T2航站楼", "departure_time": "08:20", "arrival_time": "12:55", "price": [{"type": "公务舱", "amount": "sold out"}, {"type": "经济舱", "amount": "460"}]},
-{"departure_airport": "西安咸阳机场T2航站楼", "arrival_airport": "长春龙嘉国际机场T2航站楼", "departure_time": "17:00", "arrival_time": "09:50", "price": [{"type": "公务舱", "amount": "2580"}, {"type": "经济舱", "amount": "900"}]}
-][
+{"departure_airport": "西安咸阳机场T2航站楼", "arrival_airport": "长春龙嘉国际机场T2航站楼", "departure_time": "17:00", "arrival_time": "09:50", "price": [{"type": "公务舱", "amount": "2580"}, {"type": "经济舱", "amount": "900"}]},
 {"departure_airport": "上海浦东机场T2航站楼", "arrival_airport": "北京首都国际机场T2航站楼", "departure_time": "07:00", "arrival_time": "09:25", "price": [{"type": "公务舱", "amount": "1770"}, {"type": "经济舱", "amount": "435"}]},
 {"departure_airport": "上海浦东机场T2航站楼", "arrival_airport": "北京首都国际机场T2航站楼", "departure_time": "10:55", "arrival_time": "13:20", "price": [{"type": "公务舱", "amount": "1770"}, {"type": "经济舱", "amount": "770"}]},
 {"departure_airport": "上海浦东机场T2航站楼", "arrival_airport": "海口美兰机场", "departure_time": "11:50", "arrival_time": "15:10", "price": [{"type": "公务舱", "amount": "2090"}, {"type": "经济舱", "amount": "570"}]},
@@ -314,8 +309,7 @@
 {"departure_airport": "上海浦东机场T2航站楼", "arrival_airport": "大连周水子国际机场机场", "departure_time": "06:40", "arrival_time": "10:20", "price": [{"type": "公务舱", "amount": "780"}, {"type": "经济舱", "amount": "325"}]},
 {"departure_airport": "上海浦东机场T2航站楼", "arrival_airport": "哈尔滨太平国际机场", "departure_time": "13:55", "arrival_time": "17:00", "price": [{"type": "公务舱", "amount": "1440"}, {"type": "经济舱", "amount": "345"}]},
 {"departure_airport": "上海浦东机场T2航站楼", "arrival_airport": "哈尔滨太平国际机场", "departure_time": "07:00", "arrival_time": "00:35", "price": [{"type": "公务舱", "amount": "2890"}, {"type": "经济舱", "amount": "830"}]},
-{"departure_airport": "上海浦东机场T2航站楼", "arrival_airport": "哈尔滨太平国际机场", "departure_time": "10:55", "arrival_time": "00:35", "price": [{"type": "公务舱", "amount": "2890"}, {"type": "经济舱", "amount": "1100"}]}
-][
+{"departure_airport": "上海浦东机场T2航站楼", "arrival_airport": "哈尔滨太平国际机场", "departure_time": "10:55", "arrival_time": "00:35", "price": [{"type": "公务舱", "amount": "2890"}, {"type": "经济舱", "amount": "1100"}]},
 {"departure_airport": "深圳宝安机场", "arrival_airport": "北京首都国际机场T2航站楼", "departure_time": "20:55", "arrival_time": "23:55", "price": [{"type": "公务舱", "amount": "2730"}, {"type": "超级经济舱", "amount": "1190"}, {"type": "经济舱", "amount": "625"}]},
 {"departure_airport": "深圳宝安机场", "arrival_airport": "北京首都国际机场T2航站楼", "departure_time": "19:50", "arrival_time": "22:55", "price": [{"type": "公务舱", "amount": "1830"}, {"type": "超级经济舱", "amount": "sold out"}, {"type": "经济舱", "amount": "685"}]},
 {"departure_airport": "深圳宝安机场", "arrival_airport": "北京首都国际机场T2航站楼", "departure_time": "07:30", "arrival_time": "10:25", "price": [{"type": "公务舱", "amount": "2730"}, {"type": "超级经济舱", "amount": "sold out"}, {"type": "经济舱", "amount": "1190"}]},
@@ -357,8 +351,7 @@
 {"departure_airport": "深圳宝安机场", "arrival_airport": "沈阳桃仙国际机场T3航站楼", "departure_time": "09:50", "arrival_time": "15:30", "price": [{"type": "公务舱", "amount": "2720"}, {"type": "经济舱", "amount": "900"}]},
 {"departure_airport": "深圳宝安机场", "arrival_airport": "沈阳桃仙国际机场T3航站楼", "departure_time": "07:05", "arrival_time": "17:20", "price": [{"type": "公务舱", "amount": "3470"}, {"type": "经济舱", "amount": "815"}]},
 {"departure_airport": "深圳宝安机场", "arrival_airport": "沈阳桃仙国际机场T3航站楼", "departure_time": "10:10", "arrival_time": "17:20", "price": [{"type": "公务舱", "amount": "2570"}, {"type": "经济舱", "amount": "940"}]},
-{"departure_airport": "深圳宝安机场", "arrival_airport": "太原武宿国际机场T1航站楼", "departure_time": "16:50", "arrival_time": "19:50", "price": [{"type": "公务舱", "amount": "2110"}, {"type": "经济舱", "amount": "460"}]}
-][
+{"departure_airport": "深圳宝安机场", "arrival_airport": "太原武宿国际机场T1航站楼", "departure_time": "16:50", "arrival_time": "19:50", "price": [{"type": "公务舱", "amount": "2110"}, {"type": "经济舱", "amount": "460"}]},
 {"departure_airport": "杭州萧山机场T3航站楼", "arrival_airport": "北京首都国际机场T2航站楼", "departure_time": "20:30", "arrival_time": "00:20", "price": [{"type": "公务舱", "amount": "2200"}, {"type": "超级经济舱", "amount": "sold out"}, {"type": "经济舱", "amount": "270"}]},
 {"departure_airport": "杭州萧山机场T3航站楼", "arrival_airport": "北京首都国际机场T2航站楼", "departure_time": "21:10", "arrival_time": "23:25", "price": [{"type": "公务舱", "amount": "1160"}, {"type": "超级经济舱", "amount": "sold out"}, {"type": "经济舱", "amount": "275"}]},
 {"departure_airport": "杭州萧山机场T3航站楼", "arrival_airport": "北京首都国际机场T2航站楼", "departure_time": "11:45", "arrival_time": "14:00", "price": [{"type": "公务舱", "amount": "1320"}, {"type": "超级经济舱", "amount": "920"}, {"type": "经济舱", "amount": "480"}]},
@@ -395,8 +388,7 @@
 {"departure_airport": "杭州萧山机场T3航站楼", "arrival_airport": "哈尔滨太平国际机场", "departure_time": "07:35", "arrival_time": "00:35", "price": [{"type": "公务舱", "amount": "3300"}, {"type": "经济舱", "amount": "870"}]},
 {"departure_airport": "杭州萧山机场T3航站楼", "arrival_airport": "哈尔滨太平国际机场", "departure_time": "11:45", "arrival_time": "00:35", "price": [{"type": "公务舱", "amount": "2440"}, {"type": "经济舱", "amount": "870"}]},
 {"departure_airport": "杭州萧山机场T3航站楼", "arrival_airport": "长春龙嘉国际机场T2航站楼", "departure_time": "20:30", "arrival_time": "09:50", "price": [{"type": "公务舱", "amount": "3440"}, {"type": "经济舱", "amount": "685"}]},
-{"departure_airport": "杭州萧山机场T3航站楼", "arrival_airport": "长春龙嘉国际机场T2航站楼", "departure_time": "21:10", "arrival_time": "09:50", "price": [{"type": "公务舱", "amount": "2400"}, {"type": "经济舱", "amount": "690"}]}
-][
+{"departure_airport": "杭州萧山机场T3航站楼", "arrival_airport": "长春龙嘉国际机场T2航站楼", "departure_time": "21:10", "arrival_time": "09:50", "price": [{"type": "公务舱", "amount": "2400"}, {"type": "经济舱", "amount": "690"}]},
 {"departure_airport": "成都双流机场T2航站楼", "arrival_airport": "北京首都国际机场T2航站楼", "departure_time": "19:55", "arrival_time": "23:00", "price": [{"type": "公务舱", "amount": "1500"}, {"type": "经济舱", "amount": "545"}]},
 {"departure_airport": "成都双流机场T2航站楼", "arrival_airport": "北京首都国际机场T2航站楼", "departure_time": "11:55", "arrival_time": "14:45", "price": [{"type": "公务舱", "amount": "2010"}, {"type": "经济舱", "amount": "685"}]},
 {"departure_airport": "成都双流机场T2航站楼", "arrival_airport": "海口美兰机场", "departure_time": "06:25", "arrival_time": "08:55", "price": [{"type": "公务舱", "amount": "1410"}, {"type": "经济舱", "amount": "525"}]},
