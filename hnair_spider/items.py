@@ -9,4 +9,10 @@ import scrapy
 class HnairSpiderItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    pass
+    departure_airport = scrapy.Field()
+    arrival_airport = scrapy.Field()
+    departure_time = scrapy.Field()
+    arrival_time = scrapy.Field()
+    plane = scrapy.Field()
+    price = scrapy.Field()
+
