@@ -13,6 +13,5 @@ class HnairSpiderItem(scrapy.Item):
     arrival_airport = scrapy.Field()
     departure_time = scrapy.Field()
     arrival_time = scrapy.Field()
-    plane = scrapy.Field()
     price = scrapy.Field()
 
