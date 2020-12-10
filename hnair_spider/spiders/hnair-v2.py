@@ -2,11 +2,9 @@ import scrapy
 from scrapy import Request
 from selenium import webdriver
 import logging
-import time
 import json
 import traceback
 from bs4 import BeautifulSoup
-import random
 import string
 import zipfile
 

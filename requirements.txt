@@ -1,0 +1,5 @@
+selenium 3.141.0
+Google Chrome 87.0.4280.88
+ChromeDriver 87.0.4280.88
+beautifulsoup4 4.9.3
+Scrapy 2.4.1
